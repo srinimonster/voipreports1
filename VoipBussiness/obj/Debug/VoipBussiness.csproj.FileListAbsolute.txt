@@ -1,0 +1,5 @@
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipBussiness\bin\Debug\VoipBussiness.dll
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipBussiness\bin\Debug\VoipBussiness.pdb
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipBussiness\obj\Debug\VoipBussiness.csprojResolveAssemblyReference.cache
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipBussiness\obj\Debug\VoipBussiness.dll
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipBussiness\obj\Debug\VoipBussiness.pdb

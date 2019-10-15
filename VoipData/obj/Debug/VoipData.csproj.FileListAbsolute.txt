@@ -1,0 +1,5 @@
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipData\bin\Debug\VoipData.dll
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipData\bin\Debug\VoipData.pdb
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipData\obj\Debug\VoipData.csprojResolveAssemblyReference.cache
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipData\obj\Debug\VoipData.dll
+C:\Users\IDS11\Documents\Visual Studio 2013\Projects\VOIPOffice\VoipData\obj\Debug\VoipData.pdb

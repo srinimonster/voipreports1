@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VOIPOffice", "http://localhost:50430", "{02FA18EE-A356-4943-93E5-52B9FA98F8CC}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50430"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\VOIPOffice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50430\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50430"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\VOIPOffice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50430\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\Desktop\VOIPOffice\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipDashBoard", "VoipDashBoard\VoipDashBoard.csproj", "{0D9E8B44-6E82-45B3-8FED-6DCFD99D5D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipServices", "VoipServices\VoipServices.csproj", "{46EBFE51-AA7A-4D47-8135-6FA24D56BE91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VoipBusiness", "VoipBusiness", "{4C1AFC69-E958-4B75-AD86-859A1232EAFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VoipData", "VoipData", "{CB8C1169-484A-411A-A78B-5412BB48073B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VoipPresentation", "VoipPresentation", "{193845DE-83E9-43BD-970B-349B3193441A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VoipService", "VoipService", "{463CFE69-03EE-49A2-B222-48D0D6B54AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipBusiness", "VoipBussiness\VoipBusiness.csproj", "{760D9BA3-4E77-44FA-96D7-4371BDEA9ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoipData", "VoipData\VoipData.csproj", "{B91B0ACB-20C8-4545-B662-96EC71FFB71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FA18EE-A356-4943-93E5-52B9FA98F8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FA18EE-A356-4943-93E5-52B9FA98F8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FA18EE-A356-4943-93E5-52B9FA98F8CC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FA18EE-A356-4943-93E5-52B9FA98F8CC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0D9E8B44-6E82-45B3-8FED-6DCFD99D5D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9E8B44-6E82-45B3-8FED-6DCFD99D5D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9E8B44-6E82-45B3-8FED-6DCFD99D5D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9E8B44-6E82-45B3-8FED-6DCFD99D5D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EBFE51-AA7A-4D47-8135-6FA24D56BE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EBFE51-AA7A-4D47-8135-6FA24D56BE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EBFE51-AA7A-4D47-8135-6FA24D56BE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EBFE51-AA7A-4D47-8135-6FA24D56BE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760D9BA3-4E77-44FA-96D7-4371BDEA9ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760D9BA3-4E77-44FA-96D7-4371BDEA9ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760D9BA3-4E77-44FA-96D7-4371BDEA9ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760D9BA3-4E77-44FA-96D7-4371BDEA9ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91B0ACB-20C8-4545-B662-96EC71FFB71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91B0ACB-20C8-4545-B662-96EC71FFB71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91B0ACB-20C8-4545-B662-96EC71FFB71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91B0ACB-20C8-4545-B662-96EC71FFB71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0D9E8B44-6E82-45B3-8FED-6DCFD99D5D08} = {193845DE-83E9-43BD-970B-349B3193441A}
+		{46EBFE51-AA7A-4D47-8135-6FA24D56BE91} = {463CFE69-03EE-49A2-B222-48D0D6B54AA1}
+		{760D9BA3-4E77-44FA-96D7-4371BDEA9ECB} = {4C1AFC69-E958-4B75-AD86-859A1232EAFC}
+		{B91B0ACB-20C8-4545-B662-96EC71FFB71D} = {CB8C1169-484A-411A-A78B-5412BB48073B}
+	EndGlobalSection
+EndGlobal
