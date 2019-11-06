@@ -1,0 +1,17 @@
+splan,name,value
+1,name,"US and Canada Unlimited"
+1,tbd,0
+1,min_charge,0
+1,connection_charge,0
+1,connection_charge_dgroup,0
+1,billing,6/6
+1,grace_period,3
+1,total_inclusives,3000
+2,name,"US AND CANADA & CHINA"
+2,tbd,0
+2,min_charge,0
+2,connection_charge,0
+2,connection_charge_dgroup,0
+2,billing,6/6
+2,grace_period,3
+2,total_inclusives,3000

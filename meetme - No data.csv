@@ -1,0 +1,23 @@
+ext,name,value
+6112,color,black
+6112,confgroup,1223
+6112,language,en
+6112,max_users,50
+6112,name,Sales
+6112,numrings,0
+6112,options,
+6112,pin,4590
+6112,pin_admin,456
+6112,pin_marked,
+6112,rtpdelay,1
+6114,color,black
+6114,confgroup,1223
+6114,language,en
+6114,max_users,50
+6114,name,"Sunny Conf"
+6114,numrings,0
+6114,options,
+6114,pin,4000
+6114,pin_admin,456
+6114,pin_marked,
+6114,rtpdelay,1

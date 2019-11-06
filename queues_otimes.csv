@@ -1,0 +1,4 @@
+ext,date_from,date_to,destination,day_from,day_to,time_from,time_to,status,open,days
+6020,0000-00-00,0000-00-00,,0,0,390,930,open-range,,"1,2,3,4,5,6"
+6001,0000-00-00,0000-00-00,,0,0,1410,1200,open-range,,"1,2,3,4,5"
+6001,0000-00-00,0000-00-00,,0,0,30,1080,open-range,,6

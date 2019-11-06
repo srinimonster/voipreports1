@@ -1,0 +1,5 @@
+identifier,name,type,config
+6002,Sales,ring,5004|32||2001|||1|||yes|yes|all||yes||99||||UyVDQUxMRVJJRCU=
+6003,"Customer Service",ring,"7010,7009|32||2003|||1|||yes||all||yes||99"
+6004,Billing,ring,"1103,7010|32||2002|||1|||yes||all||yes||99"
+1000,Sunitha-EXT,ring,"1109,1126,1127,1128,1141,1144,1145|25||2003|||1|||||all||yes||50"

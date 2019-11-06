@@ -1,0 +1,1001 @@
+ext,route,destination,permission
+1101,869,"special service",2
+1101,869,"48 States",2
+1101,869,"Toll Free",2
+1101,869,Alaska,2
+1101,869,Hawai,2
+1101,870,proper,2
+1101,870,"special service",2
+1115,869,"special service",2
+1115,869,"48 States",2
+1115,869,"Toll Free",2
+1115,869,Alaska,2
+1115,869,Hawai,2
+1115,870,proper,2
+1115,870,"special service",2
+1103,869,"special service",2
+1103,869,"48 States",2
+1103,869,"Toll Free",2
+1103,869,Alaska,2
+1103,869,Hawai,2
+1103,870,proper,2
+1103,870,"special service",2
+1109,870,proper,2
+1109,870,"special service",2
+1112,869,"special service",2
+1112,869,"48 States",2
+1112,869,"Toll Free",2
+1112,869,Alaska,2
+1112,869,Hawai,2
+1112,870,proper,2
+1112,870,"special service",2
+1113,869,"special service",2
+1113,869,"48 States",2
+1113,869,"Toll Free",2
+1113,869,Alaska,2
+1113,869,Hawai,2
+1113,870,proper,2
+1113,870,"special service",2
+1114,869,"special service",2
+1114,869,"48 States",2
+1114,869,"Toll Free",2
+1114,869,Alaska,2
+1114,869,Hawai,2
+1114,870,proper,2
+1114,870,"special service",2
+1125,869,"special service",2
+1125,869,"48 States",2
+1125,869,"Toll Free",2
+1125,869,Alaska,2
+1125,869,Hawai,2
+1125,870,proper,2
+1125,870,"special service",2
+1126,869,"special service",2
+1126,869,"48 States",2
+1126,869,"Toll Free",2
+1126,869,Alaska,2
+1126,869,Hawai,2
+1126,870,proper,2
+1126,870,"special service",2
+1127,869,"special service",2
+1127,869,"48 States",2
+1127,869,"Toll Free",2
+1127,869,Alaska,2
+1127,869,Hawai,2
+1127,870,proper,2
+1127,870,"special service",2
+1128,869,"special service",2
+1128,869,"48 States",2
+1128,869,"Toll Free",2
+1128,869,Alaska,2
+1128,869,Hawai,2
+1128,870,proper,2
+1128,870,"special service",2
+1130,869,"special service",2
+1130,869,"48 States",2
+1130,869,"Toll Free",2
+1130,869,Alaska,2
+1130,869,Hawai,2
+1130,870,proper,2
+1130,870,"special service",2
+1141,869,"special service",2
+1141,869,"48 States",2
+1141,869,"Toll Free",2
+1141,869,Alaska,2
+1141,869,Hawai,2
+1141,870,proper,2
+1141,870,"special service",2
+1142,869,"special service",2
+1142,869,"48 States",2
+1142,869,"Toll Free",2
+1142,869,Alaska,2
+1142,869,Hawai,2
+1142,870,proper,2
+1142,870,"special service",2
+1144,869,"special service",2
+1144,869,"48 States",2
+1144,869,"Toll Free",2
+1144,869,Alaska,2
+1144,869,Hawai,2
+1144,870,proper,2
+1144,870,"special service",2
+2210,869,"special service",2
+2210,869,"48 States",2
+2210,869,"Toll Free",2
+2210,869,Alaska,2
+2210,869,Hawai,2
+2210,870,proper,2
+2210,870,"special service",2
+2211,869,"special service",2
+2211,869,"48 States",2
+2211,869,"Toll Free",2
+2211,869,Alaska,2
+2211,869,Hawai,2
+2211,870,proper,2
+2211,870,"special service",2
+3314,869,"special service",2
+3314,869,"48 States",2
+3314,869,"Toll Free",2
+3314,869,Alaska,2
+3314,869,Hawai,2
+3314,870,proper,2
+3314,870,"special service",2
+3318,869,"special service",2
+3318,869,"48 States",2
+3318,869,"Toll Free",2
+3318,869,Alaska,2
+3318,869,Hawai,2
+3318,870,proper,2
+3318,870,"special service",2
+3320,869,"special service",2
+3320,869,"48 States",2
+3320,869,"Toll Free",2
+3320,869,Alaska,2
+3320,869,Hawai,2
+3320,870,proper,2
+3320,870,"special service",2
+3321,869,"special service",2
+3321,869,"48 States",2
+3321,869,"Toll Free",2
+3321,869,Alaska,2
+3321,869,Hawai,2
+3321,870,proper,2
+3321,870,"special service",2
+3323,869,"special service",2
+3323,869,"48 States",2
+3323,869,"Toll Free",2
+3323,869,Alaska,2
+3323,869,Hawai,2
+3323,870,proper,2
+3323,870,"special service",2
+3324,869,"special service",2
+3324,869,"48 States",2
+3324,869,"Toll Free",2
+3324,869,Alaska,2
+3324,869,Hawai,2
+3324,870,proper,2
+3324,870,"special service",2
+1143,869,"special service",2
+1143,869,"48 States",2
+1143,869,"Toll Free",2
+1143,869,Alaska,2
+1143,869,Hawai,2
+1143,870,proper,2
+1143,870,"special service",2
+3327,869,"special service",2
+3327,869,"48 States",2
+3327,869,"Toll Free",2
+3327,869,Alaska,2
+3327,869,Hawai,2
+3327,870,proper,2
+3327,870,"special service",2
+3330,869,"special service",2
+3330,869,"48 States",2
+3330,869,"Toll Free",2
+3330,869,Alaska,2
+3330,869,Hawai,2
+3330,870,proper,2
+3330,870,"special service",2
+3331,869,"special service",2
+3331,869,"48 States",2
+3331,869,"Toll Free",2
+3331,869,Alaska,2
+3331,869,Hawai,2
+3331,870,proper,2
+3331,870,"special service",2
+4444,869,"special service",2
+4444,869,"48 States",2
+4444,869,"Toll Free",2
+4444,869,Alaska,2
+4444,869,Hawai,2
+4444,870,proper,2
+4444,870,"special service",2
+5001,869,"special service",2
+5001,869,"48 States",2
+5001,869,"Toll Free",2
+5001,869,Alaska,2
+5001,869,Hawai,2
+5001,870,proper,2
+5001,870,"special service",2
+5002,869,"special service",2
+5002,869,"48 States",2
+5002,869,"Toll Free",2
+5002,869,Alaska,2
+5002,869,Hawai,2
+5002,870,proper,2
+5002,870,"special service",2
+5005,869,"special service",2
+5005,869,"48 States",2
+5005,869,"Toll Free",2
+5005,869,Alaska,2
+5005,869,Hawai,2
+5005,870,proper,2
+5005,870,"special service",2
+5012,869,"special service",2
+5012,869,"48 States",2
+5012,869,"Toll Free",2
+5012,869,Alaska,2
+5012,869,Hawai,2
+5012,870,proper,2
+5012,870,"special service",2
+7010,869,"special service",2
+7010,869,"48 States",2
+7010,869,"Toll Free",2
+7010,869,Alaska,2
+7010,869,Hawai,2
+7010,870,proper,2
+7010,870,"special service",2
+1101,,localextensions,2
+1101,,network,2
+1101,,auto_attendants,2
+1101,,voicemail,2
+1101,,conferences,2
+1101,,queues,2
+1115,,localextensions,2
+1115,,network,2
+1115,,auto_attendants,2
+1115,,voicemail,2
+1115,,conferences,2
+1115,,queues,2
+1103,,localextensions,2
+1103,,network,2
+1103,,auto_attendants,2
+1103,,voicemail,2
+1103,,conferences,2
+1103,,queues,2
+1109,,localextensions,2
+1109,,network,2
+1109,,auto_attendants,2
+1109,,voicemail,2
+1109,,conferences,2
+1109,,queues,2
+1112,,localextensions,2
+1112,,network,2
+1112,,auto_attendants,2
+1112,,voicemail,2
+1112,,conferences,2
+1112,,queues,2
+1113,,localextensions,2
+1113,,network,2
+1113,,auto_attendants,2
+1113,,voicemail,2
+1113,,conferences,2
+1113,,queues,2
+1114,,localextensions,2
+1114,,network,2
+1114,,auto_attendants,2
+1114,,voicemail,2
+1114,,conferences,2
+1114,,queues,2
+1125,,localextensions,2
+1125,,network,2
+1125,,auto_attendants,2
+1125,,voicemail,2
+1125,,conferences,2
+1125,,queues,2
+1126,,localextensions,2
+1126,,network,2
+1126,,auto_attendants,2
+1126,,voicemail,2
+1126,,conferences,2
+1126,,queues,2
+1127,,localextensions,2
+1127,,network,2
+1127,,auto_attendants,2
+1127,,voicemail,2
+1127,,conferences,2
+1127,,queues,2
+1128,,localextensions,2
+1128,,network,2
+1128,,auto_attendants,2
+1128,,voicemail,2
+1128,,conferences,2
+1128,,queues,2
+1130,,localextensions,2
+1130,,network,2
+1130,,auto_attendants,2
+1130,,voicemail,2
+1130,,conferences,2
+1130,,queues,2
+1141,,localextensions,2
+1141,,network,2
+1141,,auto_attendants,2
+1141,,voicemail,2
+1141,,conferences,2
+1141,,queues,2
+1142,,localextensions,2
+1142,,network,2
+1142,,auto_attendants,2
+1142,,voicemail,2
+1142,,conferences,2
+1142,,queues,2
+1144,,localextensions,2
+1144,,network,2
+1144,,auto_attendants,2
+1144,,voicemail,2
+1144,,conferences,2
+1144,,queues,2
+2210,,localextensions,2
+2210,,network,2
+2210,,auto_attendants,2
+2210,,voicemail,2
+2210,,conferences,2
+2210,,queues,2
+2211,,localextensions,2
+2211,,network,2
+2211,,auto_attendants,2
+2211,,voicemail,2
+2211,,conferences,2
+2211,,queues,2
+3314,,localextensions,2
+3314,,network,2
+3314,,auto_attendants,2
+3314,,voicemail,2
+3314,,conferences,2
+3314,,queues,2
+3318,,localextensions,2
+3318,,network,2
+3318,,auto_attendants,2
+3318,,voicemail,2
+3318,,conferences,2
+3318,,queues,2
+3320,,localextensions,2
+3320,,network,2
+3320,,auto_attendants,2
+3320,,voicemail,2
+3320,,conferences,2
+3320,,queues,2
+3321,,localextensions,2
+3321,,network,2
+3321,,auto_attendants,2
+3321,,voicemail,2
+3321,,conferences,2
+3321,,queues,2
+3323,,localextensions,2
+3323,,network,2
+3323,,auto_attendants,2
+3323,,voicemail,2
+3323,,conferences,2
+3323,,queues,2
+3324,,localextensions,2
+3324,,network,2
+3324,,auto_attendants,2
+3324,,voicemail,2
+3324,,conferences,2
+3324,,queues,2
+1143,,localextensions,2
+1143,,network,2
+1143,,auto_attendants,2
+1143,,voicemail,2
+1143,,conferences,2
+1143,,queues,2
+3327,,localextensions,2
+3327,,network,2
+3327,,auto_attendants,2
+3327,,voicemail,2
+3327,,conferences,2
+3327,,queues,2
+3330,,localextensions,2
+3330,,network,2
+3330,,auto_attendants,2
+3330,,voicemail,2
+3330,,conferences,2
+3330,,queues,2
+3331,,localextensions,2
+3331,,network,2
+3331,,auto_attendants,2
+3331,,voicemail,2
+3331,,conferences,2
+3331,,queues,2
+4444,,localextensions,2
+4444,,network,2
+4444,,auto_attendants,2
+4444,,voicemail,2
+4444,,conferences,2
+4444,,queues,2
+5001,,localextensions,2
+5001,,network,2
+5001,,auto_attendants,2
+5001,,voicemail,2
+5001,,conferences,2
+5001,,queues,2
+5002,,localextensions,2
+5002,,network,2
+5002,,auto_attendants,2
+5002,,voicemail,2
+5002,,conferences,2
+5002,,queues,2
+5005,,localextensions,2
+5005,,network,2
+5005,,auto_attendants,2
+5005,,voicemail,2
+5005,,conferences,2
+5005,,queues,2
+5012,,localextensions,2
+5012,,network,2
+5012,,auto_attendants,2
+5012,,voicemail,2
+5012,,conferences,2
+5012,,queues,2
+7010,,localextensions,2
+7010,,network,2
+7010,,auto_attendants,2
+7010,,voicemail,2
+7010,,conferences,2
+7010,,queues,2
+2218,869,"special service",2
+2218,869,"48 States",2
+2218,869,"Toll Free",2
+2218,869,Alaska,2
+2218,869,Hawai,2
+2218,870,proper,2
+2218,870,"special service",2
+2218,,localextensions,2
+2218,,network,2
+2218,,auto_attendants,2
+2218,,voicemail,2
+2218,,conferences,2
+2218,,queues,2
+1106,,auto_attendants,2
+1106,,conferences,2
+1106,,localextensions,2
+1106,,network,2
+1106,,queues,2
+1106,,voicemail,2
+1106,869,"special service",2
+1106,869,"48 States",2
+1106,869,"Toll Free",2
+1106,869,Alaska,2
+1106,869,Hawai,2
+1106,870,proper,2
+1106,870,"special service",2
+2220,,auto_attendants,2
+2220,,conferences,2
+2220,,localextensions,2
+2220,,network,2
+2220,,queues,2
+2220,,voicemail,2
+2220,869,"special service",2
+2220,869,"48 States",2
+2220,869,"Toll Free",2
+2220,869,Alaska,2
+2220,869,Hawai,2
+2220,870,proper,2
+2220,870,"special service",2
+2221,,auto_attendants,2
+2221,,conferences,2
+2221,,localextensions,2
+2221,,network,2
+2221,,queues,2
+2221,,voicemail,2
+2221,869,"special service",2
+2221,869,"48 States",2
+2221,869,"Toll Free",2
+2221,869,Alaska,2
+2221,869,Hawai,2
+2221,870,proper,2
+2221,870,"special service",2
+7009,,auto_attendants,2
+7009,,conferences,2
+7009,,localextensions,2
+7009,,network,2
+7009,,queues,2
+7009,,voicemail,2
+7009,869,"special service",2
+7009,869,"48 States",2
+7009,869,"Toll Free",2
+7009,869,Alaska,2
+7009,869,Hawai,2
+7009,870,proper,2
+7009,870,"special service",2
+2213,,auto_attendants,2
+2213,,conferences,2
+2213,,localextensions,2
+2213,,network,2
+2213,,queues,2
+2213,,voicemail,2
+2213,869,"special service",2
+2213,869,"48 States",2
+2213,869,"Toll Free",2
+2213,869,Alaska,2
+2213,869,Hawai,2
+2213,870,proper,2
+2213,870,"special service",2
+3329,,auto_attendants,2
+3329,,conferences,2
+3329,,localextensions,2
+3329,,network,2
+3329,,queues,2
+3329,,voicemail,2
+3329,869,"special service",2
+3329,869,"48 States",2
+3329,869,"Toll Free",2
+3329,869,Alaska,2
+3329,869,Hawai,2
+3329,870,proper,2
+3329,870,"special service",2
+3334,,auto_attendants,2
+3334,,conferences,2
+3334,,localextensions,2
+3334,,network,2
+3334,,queues,2
+3334,,voicemail,2
+3334,869,"special service",2
+3334,869,"48 States",2
+3334,869,"Toll Free",2
+3334,869,Alaska,2
+3334,869,Hawai,2
+3334,870,proper,2
+3334,870,"special service",2
+4445,,auto_attendants,2
+4445,,conferences,2
+4445,,localextensions,2
+4445,,network,2
+4445,,queues,2
+4445,,voicemail,2
+4445,869,"special service",2
+4445,869,"48 States",2
+4445,869,"Toll Free",2
+4445,869,Alaska,2
+4445,869,Hawai,2
+4445,870,proper,2
+4445,870,"special service",2
+4446,,auto_attendants,2
+4446,,conferences,2
+4446,,localextensions,2
+4446,,network,2
+4446,,queues,2
+4446,,voicemail,2
+4446,869,"special service",2
+4446,869,"48 States",2
+4446,869,"Toll Free",2
+4446,869,Alaska,2
+4446,869,Hawai,2
+4446,870,proper,2
+4446,870,"special service",2
+1101,363,mobile,0
+1101,363,proper,0
+1115,363,mobile,0
+1115,363,proper,0
+1106,363,mobile,0
+1106,363,proper,0
+1114,363,mobile,0
+1114,363,proper,0
+1125,363,mobile,0
+1125,363,proper,0
+1130,363,mobile,0
+1130,363,proper,0
+1141,363,mobile,0
+1141,363,proper,0
+1142,363,mobile,0
+1142,363,proper,0
+1144,363,mobile,0
+1144,363,proper,0
+2210,363,mobile,0
+2210,363,proper,0
+2211,363,mobile,0
+2211,363,proper,0
+3314,363,mobile,0
+3314,363,proper,0
+3318,363,mobile,0
+3318,363,proper,0
+3320,363,mobile,0
+3320,363,proper,0
+3321,363,mobile,0
+3321,363,proper,0
+3323,363,mobile,0
+3323,363,proper,0
+3324,363,mobile,0
+3324,363,proper,0
+1143,363,mobile,0
+1143,363,proper,0
+3327,363,mobile,0
+3327,363,proper,0
+3330,363,mobile,0
+3330,363,proper,0
+3331,363,mobile,0
+3331,363,proper,0
+4444,363,mobile,0
+4444,363,proper,0
+5002,363,mobile,0
+5002,363,proper,0
+5005,363,mobile,0
+5005,363,proper,0
+7010,363,mobile,0
+7010,363,proper,0
+2218,363,mobile,0
+2218,363,proper,0
+2220,363,mobile,0
+2220,363,proper,0
+2221,363,mobile,0
+2221,363,proper,0
+7009,363,mobile,0
+7009,363,proper,0
+2213,363,mobile,0
+2213,363,proper,0
+3329,363,mobile,0
+3329,363,proper,0
+3334,363,mobile,0
+3334,363,proper,0
+4445,363,mobile,0
+4445,363,proper,0
+4446,363,mobile,0
+4446,363,proper,0
+1109,363,mobile,2
+1109,363,proper,2
+1103,363,mobile,2
+1103,363,proper,2
+1102,,auto_attendants,2
+1102,,conferences,2
+1102,,localextensions,2
+1102,,network,2
+1102,,queues,2
+1102,,voicemail,2
+1102,363,mobile,0
+1102,363,proper,0
+1102,869,"special service",2
+1102,869,"48 States",2
+1102,869,"Toll Free",2
+1102,869,Alaska,2
+1102,869,Hawai,2
+1102,870,proper,2
+1102,870,"special service",2
+1112,363,mobile,2
+1112,363,proper,2
+1127,363,mobile,2
+1127,363,proper,2
+6005,,auto_attendants,2
+6005,,conferences,2
+6005,,localextensions,2
+6005,,network,2
+6005,,queues,2
+6005,,voicemail,2
+6005,363,mobile,0
+6005,363,proper,0
+6005,869,"special service",2
+6005,869,"48 States",2
+6005,869,"Toll Free",2
+6005,869,Alaska,2
+6005,869,Hawai,2
+6005,870,proper,2
+6005,870,"special service",2
+6006,,auto_attendants,2
+6006,,conferences,2
+6006,,localextensions,2
+6006,,network,2
+6006,,queues,2
+6006,,voicemail,2
+6006,363,mobile,0
+6006,363,proper,0
+6006,869,"special service",2
+6006,869,"48 States",2
+6006,869,"Toll Free",2
+6006,869,Alaska,2
+6006,869,Hawai,2
+6006,870,proper,2
+6006,870,"special service",2
+6007,,auto_attendants,2
+6007,,conferences,2
+6007,,localextensions,2
+6007,,network,2
+6007,,queues,2
+6007,,voicemail,2
+6007,363,mobile,0
+6007,363,proper,0
+6007,869,"special service",2
+6007,869,"48 States",2
+6007,869,"Toll Free",2
+6007,869,Alaska,2
+6007,869,Hawai,2
+6007,870,proper,2
+6007,870,"special service",2
+1126,363,mobile,2
+1126,363,proper,2
+5012,363,mobile,2
+5012,363,proper,2
+3333,,auto_attendants,2
+3333,,conferences,2
+3333,,localextensions,2
+3333,,network,2
+3333,,queues,2
+3333,,voicemail,2
+3333,363,mobile,0
+3333,363,proper,0
+3333,869,"special service",2
+3333,869,"48 States",2
+3333,869,"Toll Free",2
+3333,869,Alaska,2
+3333,869,Hawai,2
+3333,870,proper,2
+3333,870,"special service",2
+1112,,all,2
+6008,,auto_attendants,2
+6008,,conferences,2
+6008,,localextensions,2
+6008,,network,2
+6008,,queues,2
+6008,,voicemail,2
+6008,363,mobile,0
+6008,363,proper,0
+6008,869,"special service",2
+6008,869,"48 States",2
+6008,869,"Toll Free",2
+6008,869,Alaska,2
+6008,869,Hawai,2
+6008,870,proper,2
+6008,870,"special service",2
+2226,,auto_attendants,2
+2226,,conferences,2
+2226,,localextensions,2
+2226,,network,2
+2226,,queues,2
+2226,,voicemail,2
+2226,363,mobile,0
+2226,363,proper,0
+2226,869,"special service",2
+2226,869,"48 States",2
+2226,869,"Toll Free",2
+2226,869,Alaska,2
+2226,869,Hawai,2
+2226,870,proper,2
+2226,870,"special service",2
+5004,,auto_attendants,2
+5004,,conferences,2
+5004,,localextensions,2
+5004,,network,2
+5004,,queues,2
+5004,,voicemail,2
+5004,869,"special service",2
+5004,869,"48 States",2
+5004,869,"Toll Free",2
+5004,869,Alaska,2
+5004,869,Hawai,2
+5004,870,proper,2
+5004,870,"special service",2
+5004,363,mobile,2
+5004,363,proper,2
+3335,,auto_attendants,2
+3335,,conferences,2
+3335,,localextensions,2
+3335,,network,2
+3335,,queues,2
+3335,,voicemail,2
+3335,363,mobile,0
+3335,363,proper,0
+3335,869,"special service",2
+3335,869,"48 States",2
+3335,869,"Toll Free",2
+3335,869,Alaska,2
+3335,869,Hawai,2
+3335,870,proper,2
+3335,870,"special service",2
+1145,,auto_attendants,2
+1145,,conferences,2
+1145,,localextensions,2
+1145,,network,2
+1145,,queues,2
+1145,,voicemail,2
+1145,363,mobile,0
+1145,363,proper,0
+1145,869,"special service",2
+1145,869,"48 States",2
+1145,869,"Toll Free",2
+1145,869,Alaska,2
+1145,869,Hawai,2
+1145,870,proper,2
+1145,870,"special service",2
+3336,,auto_attendants,2
+3336,,conferences,2
+3336,,localextensions,2
+3336,,network,2
+3336,,queues,2
+3336,,voicemail,2
+3336,363,mobile,0
+3336,363,proper,0
+3336,869,"special service",2
+3336,869,"48 States",2
+3336,869,"Toll Free",2
+3336,869,Alaska,2
+3336,869,Hawai,2
+3336,870,proper,2
+3336,870,"special service",2
+3337,,auto_attendants,2
+3337,,conferences,2
+3337,,localextensions,2
+3337,,network,2
+3337,,queues,2
+3337,,voicemail,2
+3337,363,mobile,0
+3337,363,proper,0
+3337,869,"special service",2
+3337,869,"48 States",2
+3337,869,"Toll Free",2
+3337,869,Alaska,2
+3337,869,Hawai,2
+3337,870,proper,2
+3337,870,"special service",2
+3338,,auto_attendants,2
+3338,,conferences,2
+3338,,localextensions,2
+3338,,network,2
+3338,,queues,2
+3338,,voicemail,2
+3338,363,mobile,0
+3338,363,proper,0
+3338,869,"special service",2
+3338,869,"48 States",2
+3338,869,"Toll Free",2
+3338,869,Alaska,2
+3338,869,Hawai,2
+3338,870,proper,2
+3338,870,"special service",2
+3328,,auto_attendants,2
+3328,,conferences,2
+3328,,localextensions,2
+3328,,network,2
+3328,,queues,2
+3328,,voicemail,2
+3328,363,mobile,0
+3328,363,proper,0
+3328,869,"special service",2
+3328,869,"48 States",2
+3328,869,"Toll Free",2
+3328,869,Alaska,2
+3328,869,Hawai,2
+3328,870,proper,2
+3328,870,"special service",2
+2215,,auto_attendants,2
+2215,,conferences,2
+2215,,localextensions,2
+2215,,network,2
+2215,,queues,2
+2215,,voicemail,2
+2215,363,mobile,0
+2215,363,proper,0
+2215,869,"special service",2
+2215,869,"48 States",2
+2215,869,"Toll Free",2
+2215,869,Alaska,2
+2215,869,Hawai,2
+2215,870,proper,2
+2215,870,"special service",2
+2212,,auto_attendants,2
+2212,,conferences,2
+2212,,localextensions,2
+2212,,network,2
+2212,,queues,2
+2212,,voicemail,2
+2212,363,mobile,0
+2212,363,proper,0
+2212,869,"special service",2
+2212,869,"48 States",2
+2212,869,"Toll Free",2
+2212,869,Alaska,2
+2212,869,Hawai,2
+2212,870,proper,2
+2212,870,"special service",2
+1150,,auto_attendants,2
+1150,,conferences,2
+1150,,localextensions,2
+1150,,network,2
+1150,,queues,2
+1150,,voicemail,2
+1150,363,mobile,0
+1150,363,proper,0
+1150,869,"special service",2
+1150,869,"48 States",2
+1150,869,"Toll Free",2
+1150,869,Alaska,2
+1150,869,Hawai,2
+1150,870,proper,2
+1150,870,"special service",2
+1128,825,proper,0
+1128,825,freephone,0
+1128,825,other,0
+1128,825,"premium rate service",0
+1128,825,"Mobile - O2",0
+1128,825,"Mobile - Orange",0
+1128,825,"Mobile - T-mobile",0
+1128,825,"Mobile - Vodafone",0
+1128,825,"Non Geographic - Local Call",0
+1128,825,"Non Geographic- National Call",0
+1128,825,3G,0
+1128,825,Directory,0
+1128,825,"Mobile - Manx Telecom",0
+1128,825,"UK Special Service g6",0
+1128,825,"UK Special Servic g7",0
+1128,825,"UK Special Service g8",0
+1128,825,"UK Special Service g9",0
+1128,825,"UK Special Service g10",0
+1128,825,"UK Special Service g11",0
+1128,825,"UK Special Service g12",0
+1128,825,"UK Special Service g13",0
+1128,825,"UK Special Sevice g14",0
+1128,825,"UK Special Service g15",0
+1128,825,"UK Special Service g19",0
+1128,825,"UK Special Service ff28",0
+1128,825,"UK Special Sevice Svcs",0
+1128,825,"UK Special Service G21 VOIP",0
+1128,825,"Thus Plc",0
+1128,825,"Virtual Universe Ltd",0
+1128,825,"Interweb Design Ltd",0
+1128,825,"Patientline UK Limited",0
+1128,825,"4D Interactive Ltd",0
+1128,825,"Nexus Telecommunications plc",0
+1128,825,"Call Sciences Limited",0
+1128,825,"Redstone Communications Ltd",0
+1128,825,"Opal Telecom Limited",0
+1128,825,"1RT Group Ltd",0
+1128,825,"TelXL Ltd",0
+1128,825,"Invomo Ltd",0
+1128,825,"Patientline UK  Limited",0
+1128,825,"Danemere Street Creative",0
+1128,825,"I Communicate Services Ltd",0
+1128,825,"Tiscali UK Limited",0
+1128,825,"TG Support Limited",0
+1128,825,"O-Bit Telecom Limited",0
+1128,825,"Skymarket Limited",0
+1128,825,"Syntec UK Ltd",0
+1128,825,"Affiniti Integrated Solutions Ltd",0
+1128,825,"Yim Siam Telecom Ltd",0
+1128,825,"FleXtel Limited",0
+1128,825,"Vital Phone Limited",0
+1128,825,"Magrathea Telecommunications Limited",0
+1128,825,"Freephone Numbers Limited",0
+1128,825,"Eurowise Dotcom Ltd",0
+1128,825,"24 Seven Communications Ltd",0
+1128,825,"Opera Telecom",0
+1128,825,VTL(UK)Limited,0
+1128,825,"YAC Ltd",0
+1128,825,"Hotchilli Communications Ltd",0
+1128,825,"Total FM 2000 Ltd",0
+1128,825,"Citrus Telecommunications Ltd",0
+1128,825,"B4U Telecom Ltd",0
+1128,825,"Known Future Limited",0
+1128,825,"Daotec Ltd",0
+1128,825,"Optics Telecom Ltd",0
+1128,825,"Rhodium Telecom Limited",0
+1128,825,"Internet Telecommunications Plc",0
+1128,825,"Swiftnet Ltd",0
+1128,825,"Switch Call Limited",0
+1128,825,"Wavecrest UK Ltd",0
+1128,825,"Bell Worldwide Ltd",0
+1128,825,"Skytel Ltd",0
+1128,825,"UK MBL Other Wire9",0
+1128,825,"UK Mobil Jersy",0
+1128,825,"UK MBL Inquam",0
+4002,,auto_attendants,2
+4002,,conferences,2
+4002,,localextensions,2
+4002,,network,2
+4002,,queues,2
+4002,,voicemail,2
+4002,363,mobile,0
+4002,363,proper,0
+4002,869,"special service",2
+4002,869,"48 States",2
+4002,869,"Toll Free",2
+4002,869,Alaska,2
+4002,869,Hawai,2
+4002,870,proper,2
+4002,870,"special service",2
+2219,,auto_attendants,2
+2219,,conferences,2
+2219,,localextensions,2
+2219,,network,2
+2219,,queues,2
+2219,,voicemail,2
+2219,363,mobile,0
+2219,363,proper,0
+2219,869,"special service",2
+2219,869,"48 States",2
+2219,869,"Toll Free",2
+2219,869,Alaska,2
+2219,869,Hawai,2
+2219,870,proper,2
+2219,870,"special service",2
+2217,,auto_attendants,2
+2217,,conferences,2
+2217,,localextensions,2
+2217,,network,2
+2217,,queues,2

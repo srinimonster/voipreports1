@@ -1,0 +1,4 @@
+id,code,name,description,billable,payable,type
+1,2609,"Tea Break","10 Minutes Break",2,2,
+2,2610,Lunch,"Lunch 30 Minutes",2,2,
+3,2611,Dinner,"Dinner Break 30 Minutes",2,2,

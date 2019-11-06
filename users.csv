@@ -1,0 +1,1001 @@
+ext,name,value
+1101,force_codec,
+1101,callingpres,
+1101,cid_anon,1
+1101,ringtoneforlocalcalls,
+1101,ringtonefortransferredcalls,
+1101,cidmatchdid,
+1101,incominglimit,3
+1101,outgoinglimit,2
+1101,limit_notify_play_sound,
+1101,limit_notify_send_email,yes
+1101,limit_notify_email,notifications@voipoffice.com
+1101,title,
+1101,label,
+1101,location,
+1101,ext_timezone,
+1101,pin,4472
+1101,areacode,
+1101,ringtime,32
+1101,dialoptions,
+1101,incoming_dialoptions,tr
+1101,protocol,sip
+1101,hd_logout_time,
+1101,secret,Hbf78%8ISXen!bmydBiA-e9h-WCp6A538485
+1101,ldap_username,
+1101,glocom,0
+1101,recordcalls,1
+1101,recordsilent,1
+1101,recordvoicemail,0
+1101,record_beep_ext,
+1101,voicemail,1
+1101,busyvoicemail,0
+1101,busylevel,0
+1101,busylevel_incoming,0
+1101,name,Satya
+1101,email,satya@voipoffice.com
+1101,area_code,NULL
+1101,billing,1
+1101,account_code,1101
+1101,department,3
+1101,show_in_app,1
+1101,videosupport,no
+1101,primary_trunk,
+1101,secondary_trunk,
+1101,tertiary_trunk,
+1101,override_lcr,0
+1101,musicclass,
+1101,suspend,0
+1101,mac,
+1101,allow,"ulaw,alaw"
+1101,jbimpl,
+1101,jbmaxsize,
+1101,jbresyncthreshold,
+1101,jbtargetextra,
+1101,voice_opext,NULL
+1101,voice_delay,
+1101,voice_nrings,
+1101,voice_skipinst,0
+1101,voicemail_options,u
+1101,voice_language,NULL
+1101,page_header,
+1101,"Caller ID",2
+1101,"Call Pickup",2
+1101,Lastcaller,2
+1101,"Ext Operation Times",2
+1101,"Call Filters & Blocking",0
+1101,"Do Not Disturb",0
+1101,"Personal IVR",0
+1101,"Call Forwarding",2
+1101,"Follow Me",0
+1101,"Group Hunt",0
+1101,"Mobile Numbers",0
+1101,"Speakerphone Page",0
+1101,"Speakerphone Page Groups",0
+1101,"BLF List",0
+1101,"Speed Dial",2
+1101,"Instant Recording",2
+1101,"Delete Recordings",0
+1101,"Listen to Recordings",2
+1101,"Remote Access",0
+1101,"Call Monitoring",2
+1101,"Operation times",0
+1101,service_plan,1
+1101,limit,yes
+1101,limit_type,Monthly
+1101,soft_limit,10
+1101,hard_limit,5
+1101,notification_email,ramana@idssoft.com
+1101,cf_billing_disable,
+1115,force_codec,
+1115,"Caller ID",2
+1115,"Call Pickup",2
+1115,Lastcaller,2
+1115,"Ext Operation Times",2
+1115,"Call Filters & Blocking",2
+1115,"Do Not Disturb",2
+1115,"Personal IVR",0
+1115,"Call Forwarding",2
+1115,"Follow Me",0
+1115,"Group Hunt",0
+1115,"Mobile Numbers",0
+1115,"Speakerphone Page",2
+1115,"Speakerphone Page Groups",2
+1115,"BLF List",2
+1115,"Speed Dial",2
+1115,"Instant Recording",2
+1115,"Delete Recordings",0
+1115,"Listen to Recordings",2
+1115,"Remote Access",0
+1115,"Call Monitoring",2
+1115,"Operation times",0
+1115,callingpres,
+1115,cid_anon,1
+1115,ringtoneforlocalcalls,
+1115,ringtonefortransferredcalls,
+1115,cidmatchdid,
+1115,incominglimit,2
+1115,outgoinglimit,5
+1115,limit_notify_play_sound,
+1115,limit_notify_send_email,yes
+1115,limit_notify_email,notifications@voipoffice.com
+1115,title,
+1115,label,
+1115,location,
+1115,ext_timezone,
+1115,pin,2284
+1115,areacode,
+1115,ringtime,32
+1115,dialoptions,
+1115,incoming_dialoptions,tr
+1115,protocol,sip
+1115,hd_logout_time,
+1115,secret,3538pgOcUKNnD3!!5AHf_bV8%_PqWpl2ba84
+1115,ldap_username,
+1115,glocom,0
+1115,recordcalls,1
+1115,recordsilent,1
+1115,recordvoicemail,0
+1115,record_beep_ext,
+1115,voicemail,1
+1115,busyvoicemail,0
+1115,busylevel,0
+1115,busylevel_incoming,0
+1115,name,"Ramana Ulsa"
+1115,email,ramana@voipoffice.com
+1115,service_plan,1
+1115,limit,yes
+1115,limit_type,Monthly
+1115,soft_limit,60
+1115,hard_limit,20
+1115,notification_email,ramana@idssoft.com
+1115,cf_billing_disable,
+1115,area_code,NULL
+1115,billing,1
+1115,account_code,1115
+1115,department,"4,7,8"
+1115,show_in_app,1
+1115,videosupport,yes
+1115,primary_trunk,IDT
+1115,secondary_trunk,
+1115,tertiary_trunk,
+1115,override_lcr,0
+1115,musicclass,
+1115,suspend,0
+1115,mac,64167f03340f
+1115,allow,"ulaw,alaw,h264,opus"
+1115,jbimpl,
+1115,jbmaxsize,
+1115,jbresyncthreshold,
+1115,jbtargetextra,
+1115,voice_opext,7010
+1115,voice_delay,
+1115,voice_nrings,0
+1115,voice_skipinst,1
+1115,voicemail_options,u
+1115,voice_language,NULL
+1103,force_codec,ulaw
+1103,"Caller ID",2
+1103,"Call Pickup",2
+1103,Lastcaller,2
+1103,"Ext Operation Times",2
+1103,"Call Filters & Blocking",0
+1103,"Do Not Disturb",0
+1103,"Personal IVR",0
+1103,"Call Forwarding",2
+1103,"Follow Me",0
+1103,"Group Hunt",0
+1103,"Mobile Numbers",0
+1103,"Speakerphone Page",2
+1103,"Speakerphone Page Groups",0
+1103,"BLF List",0
+1103,"Speed Dial",2
+1103,"Instant Recording",2
+1103,"Delete Recordings",0
+1103,"Listen to Recordings",2
+1103,"Remote Access",0
+1103,"Call Monitoring",2
+1103,"Operation times",0
+1103,callingpres,
+1103,cid_anon,1
+1103,ringtoneforlocalcalls,
+1103,ringtonefortransferredcalls,
+1103,cidmatchdid,
+1103,incominglimit,2
+1103,outgoinglimit,2
+1103,limit_notify_play_sound,
+1103,limit_notify_send_email,yes
+1103,limit_notify_email,notifications@voipoffice.com
+1103,title,
+1103,label,
+1103,location,
+1103,ext_timezone,
+1103,pin,1615
+1103,areacode,
+1103,ringtime,32
+1103,dialoptions,
+1103,incoming_dialoptions,tr
+1103,protocol,sip
+1103,hd_logout_time,
+1103,secret,sUdQT!4*m%j2q2RyHL*Rj!rh8_F0ZdT3
+1103,ldap_username,
+1103,glocom,0
+1103,recordcalls,1
+1103,recordsilent,1
+1103,recordvoicemail,0
+1103,record_beep_ext,
+1103,voicemail,1
+1103,busyvoicemail,0
+1103,busylevel,0
+1103,busylevel_incoming,0
+1103,name,Srujana
+1103,email,srujana@voipoffice.com
+1103,service_plan,1
+1103,limit,yes
+1103,limit_type,Monthly
+1103,soft_limit,10
+1103,hard_limit,5
+1103,notification_email,ramana@idssoft.com
+1103,cf_billing_disable,
+1103,area_code,NULL
+1103,billing,0
+1103,account_code,1103
+1103,department,6
+1103,show_in_app,1
+1103,videosupport,yes
+1103,primary_trunk,TataInd
+1103,secondary_trunk,IDT
+1103,tertiary_trunk,
+1103,override_lcr,0
+1103,musicclass,
+1103,suspend,0
+1103,mac,
+1103,allow,"ulaw,alaw,h264"
+1103,jbimpl,
+1103,jbmaxsize,
+1103,jbresyncthreshold,
+1103,jbtargetextra,
+1103,voice_opext,NULL
+1103,voice_delay,
+1103,voice_nrings,
+1103,voice_skipinst,0
+1103,voicemail_options,u
+1103,voice_language,NULL
+1106,force_codec,
+1106,callingpres,
+1106,cid_anon,1
+1106,ringtoneforlocalcalls,
+1106,ringtonefortransferredcalls,
+1106,cidmatchdid,
+1106,incominglimit,2
+1106,outgoinglimit,2
+1106,limit_notify_play_sound,
+1106,limit_notify_send_email,yes
+1106,limit_notify_email,notifications@voipoffice.com
+1106,title,
+1106,label,
+1106,location,
+1106,ext_timezone,
+1106,pin,4026
+1106,areacode,
+1106,ringtime,32
+1106,dialoptions,
+1106,incoming_dialoptions,tr
+1106,protocol,sip
+1106,hd_logout_time,
+1106,secret,%Yyi4DQje4MS*e!68m7h-0KXYiMtmam_
+1106,ldap_username,
+1106,glocom,0
+1106,recordcalls,1
+1106,recordsilent,1
+1106,recordvoicemail,0
+1106,record_beep_ext,
+1106,voicemail,1
+1106,busyvoicemail,0
+1106,busylevel,0
+1106,busylevel_incoming,0
+1106,name,"Pradeep Reddy"
+1106,email,pradeep@voipoffice.com
+1106,service_plan,1
+1106,limit,yes
+1106,limit_type,Monthly
+1106,soft_limit,10
+1106,hard_limit,5
+1106,notification_email,ramana@idssoft.com
+1106,cf_billing_disable,
+1106,area_code,NULL
+1106,billing,1
+1106,account_code,1106
+1106,department,1
+1106,show_in_app,1
+1106,videosupport,no
+1106,primary_trunk,IDT
+1106,secondary_trunk,
+1106,tertiary_trunk,
+1106,override_lcr,0
+1106,musicclass,
+1106,suspend,0
+1106,mac,
+1106,allow,"ulaw,alaw"
+1106,jbimpl,
+1106,jbmaxsize,
+1106,jbresyncthreshold,
+1106,jbtargetextra,
+1106,voice_opext,NULL
+1106,voice_delay,
+1106,voice_nrings,
+1106,voice_skipinst,0
+1106,voicemail_options,u
+1106,voice_language,NULL
+1109,force_codec,
+1109,"Caller ID",2
+1109,"Call Pickup",2
+1109,Lastcaller,2
+1109,"Ext Operation Times",2
+1109,"Call Filters & Blocking",0
+1109,"Do Not Disturb",0
+1109,"Personal IVR",0
+1109,"Call Forwarding",2
+1109,"Follow Me",2
+1109,"Group Hunt",0
+1109,"Mobile Numbers",0
+1109,"Speakerphone Page",2
+1109,"Speakerphone Page Groups",2
+1109,"BLF List",0
+1109,"Speed Dial",2
+1109,"Instant Recording",2
+1109,"Delete Recordings",0
+1109,"Listen to Recordings",2
+1109,"Remote Access",0
+1109,"Call Monitoring",2
+1109,"Operation times",0
+1109,callingpres,
+1109,cid_anon,1
+1109,ringtoneforlocalcalls,
+1109,ringtonefortransferredcalls,
+1109,cidmatchdid,
+1109,incominglimit,2
+1109,outgoinglimit,3
+1109,limit_notify_play_sound,
+1109,limit_notify_send_email,yes
+1109,limit_notify_email,kiran@voipoffice.com
+1109,title,
+1109,label,
+1109,location,
+1109,ext_timezone,
+1109,pin,1989
+1109,areacode,
+1109,ringtime,32
+1109,dialoptions,
+1109,incoming_dialoptions,tr
+1109,protocol,sip
+1109,hd_logout_time,
+1109,secret,Apb6b**6Gy9GN7BVWD2HRX1v_6cvb_%h
+1109,ldap_username,
+1109,glocom,0
+1109,recordcalls,1
+1109,recordsilent,1
+1109,recordvoicemail,0
+1109,record_beep_ext,
+1109,voicemail,1
+1109,busyvoicemail,0
+1109,busylevel,0
+1109,busylevel_incoming,0
+1109,name,"Kiran Kumar"
+1109,email,kiran@voipoffice.com
+1109,service_plan,1
+1109,limit,yes
+1109,limit_type,Monthly
+1109,soft_limit,10
+1109,hard_limit,5
+1109,notification_email,ramana@idssoft.com
+1109,cf_billing_disable,
+1109,area_code,NULL
+1109,billing,1
+1109,account_code,1109
+1109,department,"7,8"
+1109,show_in_app,1
+1109,videosupport,yes
+1109,primary_trunk,
+1109,secondary_trunk,
+1109,tertiary_trunk,
+1109,override_lcr,0
+1109,musicclass,
+1109,suspend,0
+1109,mac,
+1109,allow,"ulaw,alaw,opus,h264"
+1109,jbimpl,
+1109,jbmaxsize,
+1109,jbresyncthreshold,
+1109,jbtargetextra,
+1109,voice_opext,NULL
+1109,voice_delay,
+1109,voice_nrings,
+1109,voice_skipinst,0
+1109,voicemail_options,u
+1109,voice_language,NULL
+1112,force_codec,
+1112,"Caller ID",2
+1112,"Call Pickup",2
+1112,Lastcaller,2
+1112,"Ext Operation Times",2
+1112,"Call Filters & Blocking",0
+1112,"Do Not Disturb",0
+1112,"Personal IVR",0
+1112,"Call Forwarding",2
+1112,"Follow Me",0
+1112,"Group Hunt",2
+1112,"Mobile Numbers",0
+1112,"Speakerphone Page",2
+1112,"Speakerphone Page Groups",0
+1112,"BLF List",0
+1112,"Speed Dial",2
+1112,"Instant Recording",2
+1112,"Delete Recordings",0
+1112,"Listen to Recordings",2
+1112,"Remote Access",2
+1112,"Call Monitoring",2
+1112,"Operation times",0
+1112,callingpres,
+1112,cid_anon,1
+1112,ringtoneforlocalcalls,
+1112,ringtonefortransferredcalls,
+1112,cidmatchdid,
+1112,incominglimit,2
+1112,outgoinglimit,2
+1112,limit_notify_play_sound,
+1112,limit_notify_send_email,yes
+1112,limit_notify_email,notifications@voipoffice.com
+1112,title,
+1112,label,
+1112,location,
+1112,ext_timezone,
+1112,pin,3796
+1112,areacode,
+1112,ringtime,32
+1112,dialoptions,
+1112,incoming_dialoptions,tr
+1112,protocol,sip
+1112,hd_logout_time,
+1112,secret,y61_2vddY3-y61_2vddY3-P1R5GP1R5G
+1112,ldap_username,
+1112,glocom,0
+1112,recordcalls,1
+1112,recordsilent,1
+1112,recordvoicemail,0
+1112,record_beep_ext,
+1112,voicemail,1
+1112,busyvoicemail,0
+1112,busylevel,0
+1112,busylevel_incoming,0
+1112,name,Sandeep
+1112,email,sandeep@voipoffice.com
+1112,service_plan,1
+1112,limit,yes
+1112,limit_type,Monthly
+1112,soft_limit,10
+1112,hard_limit,5
+1112,notification_email,ramana@idssoft.com
+1112,cf_billing_disable,
+1112,area_code,NULL
+1112,billing,0
+1112,account_code,1112
+1112,department,"7,8"
+1112,show_in_app,1
+1112,videosupport,no
+1112,primary_trunk,Bandwidth
+1112,secondary_trunk,IDT
+1112,tertiary_trunk,
+1112,override_lcr,0
+1112,musicclass,
+1112,suspend,0
+1112,mac,
+1112,allow,"ulaw,alaw"
+1112,jbimpl,adaptive
+1112,jbmaxsize,
+1112,jbresyncthreshold,
+1112,jbtargetextra,
+1112,voice_opext,NULL
+1112,voice_delay,
+1112,voice_nrings,
+1112,voice_skipinst,0
+1112,voicemail_options,u
+1112,voice_language,NULL
+1113,force_codec,
+1113,"Caller ID",2
+1113,"Call Pickup",2
+1113,Lastcaller,2
+1113,"Ext Operation Times",2
+1113,"Call Filters & Blocking",0
+1113,"Do Not Disturb",0
+1113,"Personal IVR",0
+1113,"Call Forwarding",2
+1113,"Follow Me",2
+1113,"Group Hunt",0
+1113,"Mobile Numbers",0
+1113,"Speakerphone Page",0
+1113,"Speakerphone Page Groups",0
+1113,"BLF List",0
+1113,"Speed Dial",2
+1113,"Instant Recording",2
+1113,"Delete Recordings",0
+1113,"Listen to Recordings",2
+1113,"Remote Access",0
+1113,"Call Monitoring",2
+1113,"Operation times",0
+1113,callingpres,
+1113,cid_anon,1
+1113,ringtoneforlocalcalls,
+1113,ringtonefortransferredcalls,
+1113,cidmatchdid,no
+1113,incominglimit,3
+1113,outgoinglimit,3
+1113,limit_notify_play_sound,
+1113,limit_notify_send_email,yes
+1113,limit_notify_email,notifications@voipoffice.com
+1113,title,
+1113,label,
+1113,location,
+1113,ext_timezone,
+1113,pin,3666
+1113,areacode,
+1113,ringtime,32
+1113,dialoptions,
+1113,incoming_dialoptions,tr
+1113,protocol,sip
+1113,hd_logout_time,
+1113,secret,-yr6!Xg4%7wzXUFkPtx_41QN9_vlC6Vv
+1113,ldap_username,
+1113,glocom,0
+1113,recordcalls,1
+1113,recordsilent,1
+1113,recordvoicemail,0
+1113,record_beep_ext,
+1113,voicemail,1
+1113,busyvoicemail,0
+1113,busylevel,0
+1113,busylevel_incoming,0
+1113,name,Saurav-BLR
+1113,email,saurav@voipoffice.com
+1113,service_plan,1
+1113,limit,yes
+1113,limit_type,Monthly
+1113,soft_limit,10
+1113,hard_limit,5
+1113,notification_email,ramana@idssoft.com
+1113,cf_billing_disable,
+1113,area_code,NULL
+1113,billing,0
+1113,account_code,1113
+1113,department,1
+1113,show_in_app,1
+1113,videosupport,yes
+1113,primary_trunk,
+1113,secondary_trunk,IDT
+1113,tertiary_trunk,
+1113,override_lcr,0
+1113,musicclass,
+1113,suspend,0
+1113,mac,
+1113,allow,"gsm,ulaw,alaw,h264"
+1113,jbimpl,
+1113,jbmaxsize,
+1113,jbresyncthreshold,
+1113,jbtargetextra,
+1113,voice_opext,NULL
+1113,voice_delay,
+1113,voice_nrings,
+1113,voice_skipinst,0
+1113,voicemail_options,u
+1113,voice_language,NULL
+1114,force_codec,
+1114,"Caller ID",2
+1114,"Call Pickup",2
+1114,Lastcaller,2
+1114,"Ext Operation Times",2
+1114,"Call Filters & Blocking",0
+1114,"Do Not Disturb",0
+1114,"Personal IVR",0
+1114,"Call Forwarding",0
+1114,"Follow Me",0
+1114,"Group Hunt",0
+1114,"Mobile Numbers",0
+1114,"Speakerphone Page",2
+1114,"Speakerphone Page Groups",0
+1114,"BLF List",0
+1114,"Speed Dial",2
+1114,"Instant Recording",2
+1114,"Delete Recordings",0
+1114,"Listen to Recordings",2
+1114,"Remote Access",0
+1114,"Call Monitoring",2
+1114,"Operation times",0
+1114,callingpres,
+1114,cid_anon,1
+1114,ringtoneforlocalcalls,
+1114,ringtonefortransferredcalls,
+1114,cidmatchdid,
+1114,incominglimit,2
+1114,outgoinglimit,2
+1114,limit_notify_play_sound,
+1114,limit_notify_send_email,yes
+1114,limit_notify_email,notifications@voipoffice.com
+1114,title,
+1114,label,
+1114,location,
+1114,ext_timezone,
+1114,pin,6040
+1114,areacode,
+1114,ringtime,32
+1114,dialoptions,
+1114,incoming_dialoptions,tr
+1114,protocol,sip
+1114,hd_logout_time,
+1114,secret,t2MI8YpVs0zOBK!-hq50ezH-RX_B5r98
+1114,ldap_username,
+1114,glocom,0
+1114,recordcalls,1
+1114,recordsilent,1
+1114,recordvoicemail,0
+1114,record_beep_ext,
+1114,voicemail,1
+1114,busyvoicemail,0
+1114,busylevel,0
+1114,busylevel_incoming,0
+1114,name,"Kishore Desireddy"
+1114,email,kishore@voipoffice.com
+1114,service_plan,1
+1114,limit,yes
+1114,limit_type,Monthly
+1114,soft_limit,10
+1114,hard_limit,5
+1114,notification_email,kishore@voipoffice.com
+1114,cf_billing_disable,
+1114,area_code,NULL
+1114,billing,1
+1114,account_code,1114
+1114,department,"4,7"
+1114,show_in_app,1
+1114,videosupport,no
+1114,primary_trunk,VITerm
+1114,secondary_trunk,
+1114,tertiary_trunk,
+1114,override_lcr,0
+1114,musicclass,
+1114,suspend,0
+1114,mac,
+1114,allow,"ulaw,alaw"
+1114,jbimpl,
+1114,jbmaxsize,
+1114,jbresyncthreshold,
+1114,jbtargetextra,
+1114,voice_opext,NULL
+1114,voice_delay,
+1114,voice_nrings,
+1114,voice_skipinst,0
+1114,voicemail_options,u
+1114,voice_language,NULL
+1125,force_codec,
+1125,"Caller ID",2
+1125,"Call Pickup",2
+1125,Lastcaller,2
+1125,"Ext Operation Times",2
+1125,"Call Filters & Blocking",0
+1125,"Do Not Disturb",0
+1125,"Personal IVR",0
+1125,"Call Forwarding",2
+1125,"Follow Me",0
+1125,"Group Hunt",0
+1125,"Mobile Numbers",0
+1125,"Speakerphone Page",2
+1125,"Speakerphone Page Groups",0
+1125,"BLF List",0
+1125,"Speed Dial",2
+1125,"Instant Recording",2
+1125,"Delete Recordings",0
+1125,"Listen to Recordings",2
+1125,"Remote Access",0
+1125,"Call Monitoring",2
+1125,"Operation times",0
+1125,callingpres,
+1125,cid_anon,1
+1125,ringtoneforlocalcalls,
+1125,ringtonefortransferredcalls,
+1125,cidmatchdid,
+1125,incominglimit,2
+1125,outgoinglimit,2
+1125,limit_notify_play_sound,
+1125,limit_notify_send_email,yes
+1125,limit_notify_email,notifications@voipoffice.com
+1125,title,
+1125,label,
+1125,location,
+1125,ext_timezone,
+1125,pin,2736
+1125,areacode,
+1125,ringtime,32
+1125,dialoptions,
+1125,incoming_dialoptions,tr
+1125,protocol,sip
+1125,hd_logout_time,
+1125,secret,Tf26Tp%Tzu5F_zM-pXveQ265t-Hh0ut*b009
+1125,ldap_username,
+1125,glocom,0
+1125,recordcalls,1
+1125,recordsilent,1
+1125,recordvoicemail,0
+1125,record_beep_ext,
+1125,voicemail,1
+1125,busyvoicemail,0
+1125,busylevel,0
+1125,busylevel_incoming,0
+1125,name,Chandra
+1125,email,chandra@voipoffice.com
+1125,service_plan,1
+1125,limit,NULL
+1125,limit_type,NULL
+1125,soft_limit,NULL
+1125,hard_limit,NULL
+1125,notification_email,NULL
+1125,cf_billing_disable,
+1125,area_code,NULL
+1125,billing,1
+1125,account_code,4444
+1125,department,"7,8"
+1125,show_in_app,1
+1125,videosupport,no
+1125,primary_trunk,
+1125,secondary_trunk,
+1125,tertiary_trunk,
+1125,override_lcr,0
+1125,musicclass,
+1125,suspend,0
+1125,mac,
+1125,allow,"ulaw,alaw"
+1125,jbimpl,
+1125,jbmaxsize,
+1125,jbresyncthreshold,
+1125,jbtargetextra,
+1125,voice_opext,NULL
+1125,voice_delay,
+1125,voice_nrings,
+1125,voice_skipinst,0
+1125,voicemail_options,u
+1125,voice_language,NULL
+1126,force_codec,
+1126,"Caller ID",2
+1126,"Call Pickup",2
+1126,Lastcaller,2
+1126,"Ext Operation Times",2
+1126,"Call Filters & Blocking",0
+1126,"Do Not Disturb",0
+1126,"Personal IVR",0
+1126,"Call Forwarding",2
+1126,"Follow Me",0
+1126,"Group Hunt",0
+1126,"Mobile Numbers",2
+1126,"Speakerphone Page",2
+1126,"Speakerphone Page Groups",0
+1126,"BLF List",0
+1126,"Speed Dial",2
+1126,"Instant Recording",2
+1126,"Delete Recordings",0
+1126,"Listen to Recordings",2
+1126,"Remote Access",0
+1126,"Call Monitoring",2
+1126,"Operation times",0
+1126,callingpres,
+1126,cid_anon,1
+1126,ringtoneforlocalcalls,
+1126,ringtonefortransferredcalls,
+1126,cidmatchdid,
+1126,incominglimit,2
+1126,outgoinglimit,2
+1126,limit_notify_play_sound,
+1126,limit_notify_send_email,yes
+1126,limit_notify_email,notifications@voipoffice.com
+1126,title,
+1126,label,
+1126,location,
+1126,ext_timezone,
+1126,pin,1126
+1126,areacode,
+1126,ringtime,32
+1126,dialoptions,
+1126,incoming_dialoptions,tr
+1126,protocol,sip
+1126,hd_logout_time,
+1126,secret,tA%7gu!Iuh*PWa77gn1xExVCpU_07!xx84b8
+1126,ldap_username,
+1126,glocom,0
+1126,recordcalls,1
+1126,recordsilent,1
+1126,recordvoicemail,0
+1126,record_beep_ext,
+1126,voicemail,1
+1126,busyvoicemail,0
+1126,busylevel,0
+1126,busylevel_incoming,0
+1126,name,SivaKoti
+1126,email,sivakoti@voipoffice.com
+1126,service_plan,1
+1126,limit,yes
+1126,limit_type,Monthly
+1126,soft_limit,10
+1126,hard_limit,5
+1126,notification_email,ramana@idssoft.com
+1126,cf_billing_disable,
+1126,area_code,NULL
+1126,billing,1
+1126,account_code,1126
+1126,department,"7,8"
+1126,show_in_app,1
+1126,videosupport,no
+1126,primary_trunk,TataInd
+1126,secondary_trunk,IDT
+1126,tertiary_trunk,
+1126,override_lcr,0
+1126,musicclass,
+1126,suspend,0
+1126,mac,
+1126,allow,"ulaw,alaw"
+1126,jbimpl,
+1126,jbmaxsize,
+1126,jbresyncthreshold,
+1126,jbtargetextra,
+1126,voice_opext,NULL
+1126,voice_delay,
+1126,voice_nrings,
+1126,voice_skipinst,0
+1126,voicemail_options,u
+1126,voice_language,NULL
+1127,force_codec,ulaw
+1127,"Caller ID",2
+1127,"Call Pickup",2
+1127,Lastcaller,2
+1127,"Ext Operation Times",2
+1127,"Call Filters & Blocking",0
+1127,"Do Not Disturb",0
+1127,"Personal IVR",0
+1127,"Call Forwarding",0
+1127,"Follow Me",0
+1127,"Group Hunt",0
+1127,"Mobile Numbers",0
+1127,"Speakerphone Page",0
+1127,"Speakerphone Page Groups",0
+1127,"BLF List",0
+1127,"Speed Dial",2
+1127,"Instant Recording",2
+1127,"Delete Recordings",0
+1127,"Listen to Recordings",2
+1127,"Remote Access",0
+1127,"Call Monitoring",2
+1127,"Operation times",0
+1127,callingpres,
+1127,cid_anon,1
+1127,ringtoneforlocalcalls,
+1127,ringtonefortransferredcalls,
+1127,cidmatchdid,
+1127,incominglimit,3
+1127,outgoinglimit,2
+1127,limit_notify_play_sound,
+1127,limit_notify_send_email,yes
+1127,limit_notify_email,notifications@voipoffice.com
+1127,title,
+1127,label,
+1127,location,
+1127,ext_timezone,
+1127,pin,1127
+1127,areacode,
+1127,ringtime,32
+1127,dialoptions,
+1127,incoming_dialoptions,tr
+1127,protocol,sip
+1127,hd_logout_time,
+1127,secret,tYM9clCRmw7*!8mBiYY7_%YfVs*5*0Po
+1127,ldap_username,
+1127,glocom,0
+1127,recordcalls,1
+1127,recordsilent,1
+1127,recordvoicemail,0
+1127,record_beep_ext,
+1127,voicemail,1
+1127,busyvoicemail,0
+1127,busylevel,0
+1127,busylevel_incoming,0
+1127,name,"Satish Kadali"
+1127,email,satishk@voipoffice.com
+1127,service_plan,1
+1127,limit,yes
+1127,limit_type,Monthly
+1127,soft_limit,10
+1127,hard_limit,5
+1127,notification_email,ramana@idssoft.com
+1127,cf_billing_disable,
+1127,area_code,NULL
+1127,billing,1
+1127,account_code,1127
+1127,department,"7,8"
+1127,show_in_app,1
+1127,videosupport,yes
+1127,primary_trunk,
+1127,secondary_trunk,IDT
+1127,tertiary_trunk,
+1127,override_lcr,0
+1127,musicclass,
+1127,suspend,0
+1127,mac,
+1127,allow,"ulaw,alaw,h264"
+1127,jbimpl,
+1127,jbmaxsize,
+1127,jbresyncthreshold,
+1127,jbtargetextra,
+1127,voice_opext,NULL
+1127,voice_delay,
+1127,voice_nrings,
+1127,voice_skipinst,0
+1127,voicemail_options,u
+1127,voice_language,NULL
+1128,force_codec,
+1128,"Caller ID",2
+1128,"Call Pickup",2
+1128,Lastcaller,2
+1128,"Ext Operation Times",2
+1128,"Call Filters & Blocking",0
+1128,"Do Not Disturb",0
+1128,"Personal IVR",0
+1128,"Call Forwarding",2
+1128,"Follow Me",0
+1128,"Group Hunt",0
+1128,"Mobile Numbers",0
+1128,"Speakerphone Page",2
+1128,"Speakerphone Page Groups",0
+1128,"BLF List",0
+1128,"Speed Dial",2
+1128,"Instant Recording",2
+1128,"Delete Recordings",0
+1128,"Listen to Recordings",2
+1128,"Remote Access",0
+1128,"Call Monitoring",2
+1128,"Operation times",0
+1128,callingpres,
+1128,cid_anon,1
+1128,ringtoneforlocalcalls,
+1128,ringtonefortransferredcalls,
+1128,cidmatchdid,
+1128,incominglimit,2
+1128,outgoinglimit,2
+1128,limit_notify_play_sound,
+1128,limit_notify_send_email,yes
+1128,limit_notify_email,notifications@voipoffice.com
+1128,title,
+1128,label,
+1128,location,
+1128,ext_timezone,
+1128,pin,3838
+1128,areacode,
+1128,ringtime,32
+1128,dialoptions,
+1128,incoming_dialoptions,tr
+1128,protocol,sip
+1128,hd_logout_time,
+1128,secret,GQLSLt8-qk!LAx27
+1128,ldap_username,
+1128,glocom,0
+1128,recordcalls,1
+1128,recordsilent,1
+1128,recordvoicemail,0
+1128,record_beep_ext,
+1128,voicemail,1
+1128,busyvoicemail,0
+1128,busylevel,0
+1128,busylevel_incoming,0
+1128,name,Dileep
+1128,email,dileep@voipoffice.com
+1128,service_plan,1
+1128,limit,yes
+1128,limit_type,Monthly
+1128,soft_limit,10
+1128,hard_limit,5
+1128,notification_email,ramana@idssoft.com
+1128,cf_billing_disable,

@@ -1,0 +1,53 @@
+id,trunk,number1,number2,destination_type,destination,cid,qprio,codec,tenant,stripn,ringtone,greeting,e164,e164_2,splan,billingext,recordcall
+1,teliorig,2482160026,,"network user",1115,,,,1,,,,,,0,,1
+2,VIOrig,2482894700,,"network user",5004,,,,1,,,,,,0,,0
+3,VIOrig,002482897799,,queues,6001,,,,1,,,,,,0,,0
+4,VIOrig,2484345041,,auto_attendants,6000,,,,1,,,,,,0,,0
+5,VIOrig,2484363600,,auto_attendants,6000,,,,1,,,,,,0,,0
+6,VIOrig,2486924000,,auto_attendants,6000,,,,1,,,,,,0,,0
+7,VIOrig,2487214443,,"network user",7010,,,,1,,,,,,0,,0
+8,VIOrig,2487614215,,"network user",5002,,,,1,,,,,,0,,0
+9,VIOrig,8778874974,,auto_attendants,6000,,,,1,,,,,,0,,0
+10,VIOrig,2487333000,,conferences,6114,,,,1,,,,,,0,,0
+11,Bandwidth,2486397771,,"network user",5001,,,,1,,,,,,0,,0
+12,Bandwidth,2486397775,,"network user",5004,,,,1,,,,,,0,,0
+13,Bandwidth,2486574002,,"network user",7010,,,,1,,,,,,0,,0
+14,Bandwidth,2486574110,,auto_attendants,6000,,,,1,,,,,,0,,0
+15,Bandwidth,2486574200,,"network user",5004,,,,1,,,,,,0,,0
+16,teliorig,2488265483,,"network user",5001,,,,1,,,,,,0,,0
+17,teliorig,4698123300,,auto_attendants,6000,,,,1,,,,,,0,,0
+18,teliorig,7327561001,,"network user",1142,,,,1,,,,,,0,,0
+19,VIOrig,4357,,auto_attendants,6000,,,,1,,,,,,0,,0
+20,VIOrig,2142259500,,"network user",3319,,,,1,,,,,,0,,0
+21,VIOrig,7323605100,,"network user",1113,,,,1,,,,,,0,,0
+22,VIOrig,7325323999,,"network user",3314,,,,1,,,,,,0,,0
+23,VIOrig,2142259700,,"network user",3323,,,,1,,,,,,0,,0
+24,VIOrig,2142257900,,"network user",3327,,,,1,,,,,,0,,0
+25,VIOrig,7325322300,,"network user",3330,,,,1,,,,,,0,,0
+26,VIOrig,7324052700,,"network user",3324,,,,1,,,,,,0,,0
+27,VIOrig,2142257999,,"network user",3302,,,,1,,,,,,0,,0
+28,VIOrig,2142259100,,"network user",3331,,,,1,,,,,,0,,0
+30,VIOrig,2142259300,,"network user",3318,,,,1,,,,,,0,,0
+31,VIOrig,2142259400,,"network user",3320,,,,1,,,,,,0,,0
+32,VIOrig,7326272200,,"network user",3332,,,,1,,,,,,0,,0
+33,VIOrig,7326272100,,"network user",3326,,,,1,,,,,,0,,0
+34,VIOrig,7324052777,,"network user",3321,,,,1,,,,,,0,,0
+35,VIOrig,2142259200,,"network user",3325,,,,1,,,,,,0,,0
+36,VIOrig,2142259777,,"network user",3321,,,,1,,,,,,0,,0
+37,VIOrig,2482941100,,"network user",2215,,,,1,,,,,,0,,1
+40,teliorig,6109006499,,"network user",1127,,,,1,,,,,,0,,0
+42,VIOrig,2014971738,,"network user",2211,,,,1,,,,12014971738,,2147483647,,0
+43,VIOrig,2014971983,,"network user",2226,,,,1,,,,12014971983,,2147483647,,0
+44,VIOrig,2014971986,,"network user",2218,,,,1,,,,12014971986,,2147483647,,0
+45,VIOrig,2014971992,,"network user",2213,,,,1,,,,12014971992,,2147483647,,0
+46,VIOrig,2014971993,,"network user",2215,,,,1,,,,12014971993,,2147483647,,0
+47,VIOrig,2014971994,,"network user",2212,,,,1,,,,12014971994,,2147483647,,0
+49,VIOrig,2015102064,,"network user",2210,,,,1,,,,12015102064,,2147483647,,0
+50,VIOrig,2015107983,,"network user",2217,,,,1,,,,12015107983,,2147483647,,0
+51,Bandwidth,2486314333,,"network user",1112,,,,1,,,,,,0,,0
+52,VIOrig,2016390465,,"network user",2219,,,,1,,,,12016390465,,2147483647,,0
+53,VIOrig,2017541097,,"network user",4002,,,,1,,,,12017541097,,2147483647,,0
+54,VIOrig,2017541124,,"network user",2221,,,,1,,,,12017541124,,2147483647,,0
+55,VIOrig,2017541257,,"network user",2220,,,,1,,,,12017541257,,2147483647,,0
+56,VIOrig,2483729000,,"network user",2211,,,,1,,,,,,0,,0
+57,VIOrig,2148922616,,"network user",2216,,,,1,,,,1,,2147483647,,0

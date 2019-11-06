@@ -1,0 +1,45 @@
+tbd,route,destination,lcr,trunk
+,363,mobile,primary,IDT/1142
+,363,proper,primary,IDT/1142
+,363,mobile,primary,IDT
+,363,proper,primary,IDT
+,363,mobile,primary,thinQ/1126
+,363,proper,primary,thinQ/1126
+,893,mobile,primary,IDT/2215
+,893,proper,primary,IDT/2215
+,869,"special service",primary,Bandwidth/2215
+,869,"48 States",primary,Bandwidth/2215
+,869,"Toll Free",primary,Bandwidth/2215
+,869,Alaska,primary,Bandwidth/2215
+,233,mobile,primary,IDT/1115
+,233,mobile,secondary,IDT/1115
+,233,mobile,tertiary,IDT/1115
+,233,proper,primary,IDT/1115
+,233,proper,secondary,IDT/1115
+,233,proper,tertiary,IDT/1115
+,869,"special service",primary,TataInd/1115
+,869,"48 States",primary,TataInd/1115
+,869,"Toll Free",primary,TataInd/1115
+,869,Alaska,primary,TataInd/1115
+,869,Hawai,primary,TataInd/1115
+,363,mobile,primary,IDT/1115
+,363,mobile,secondary,IDT/1115
+,363,mobile,tertiary,IDT/1115
+,363,proper,primary,IDT/1115
+,363,proper,secondary,IDT/1115
+,363,proper,tertiary,IDT/1115
+,869,"special service",primary,thinQ
+,869,"special service",secondary,thinQ
+,869,"special service",tertiary,VITerm
+,869,"48 States",primary,thinQ
+,869,"48 States",secondary,thinQ
+,869,"48 States",tertiary,VITerm
+,869,"Toll Free",primary,thinQ
+,869,"Toll Free",secondary,thinQ
+,869,"Toll Free",tertiary,VITerm
+,869,Alaska,primary,thinQ
+,869,Alaska,secondary,thinQ
+,869,Alaska,tertiary,VITerm
+,869,Hawai,primary,thinQ
+,869,Hawai,secondary,thinQ
+,869,Hawai,tertiary,VITerm

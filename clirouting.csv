@@ -1,0 +1,15 @@
+id,didid,server,matchtype,callerid,ext,type
+1,5,0,0,Anonymous%,,deny_access
+2,5,0,0,anonymous%,,deny_access
+3,9,0,1,19784873143,,deny_access
+4,9,0,1,9784873143,,deny_access
+5,9,0,1,14692708032,,deny_access
+6,9,0,1,4692708032,,deny_access
+7,9,0,1,19083684881,,deny_access
+8,9,0,1,9083684881,,deny_access
+9,9,0,1,15491782360,,deny_access
+10,15,0,0,2727860756%,,deny_access
+11,15,0,0,12727860756%,,deny_access
+12,9,0,1,"+15491782360 ",,deny_access
+13,9,0,1,"5491782360 ",,deny_access
+14,5,0,0,Restricted%,,deny_access

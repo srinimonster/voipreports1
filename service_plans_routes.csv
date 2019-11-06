@@ -1,0 +1,16 @@
+splan,route,destination,tbd,inbound,outbound,inclusive,shared,billing,min_charge,connection_charge
+1,869,"special service",,0.00000,0.00368,1,,NULL,NULL,NULL
+1,869,Alaska,,0.00000,0.00368,1,,NULL,NULL,NULL
+1,869,Hawai,,0.00000,0.00368,1,,NULL,NULL,NULL
+1,869,"Toll Free",,0.00000,0.00000,0,,NULL,NULL,NULL
+1,870,proper,,0.00000,0.00368,1,,NULL,NULL,NULL
+1,870,"special service",,0.00000,0.00368,1,,NULL,NULL,NULL
+1,0,localextensions,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,0,queues,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,0,auto_attendants,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,0,voicemail,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,0,conferences,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,0,network,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,363,mobile,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,363,proper,,0.00000,0.00000,0,,NULL,NULL,NULL
+1,869,"48 States",,0.00000,0.00000,0,,NULL,NULL,NULL
